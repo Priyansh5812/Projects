@@ -8,6 +8,7 @@ public class TankSpawner : MonoBehaviour
     void Start()
     {
         Instantiate(tankPrefab, this.transform.position, transform.rotation);
+        //ins
     }
 
 
