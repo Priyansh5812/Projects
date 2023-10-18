@@ -1,0 +1,2 @@
+/BattleTanks/Library
+/BattleTanks/Temp
