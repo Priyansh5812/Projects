@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: dfce7433e795d57408efd1c06e913b0f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOOTWALK.001
+    second: {fileID: 2100000, guid: 1c9e4c01e682b944f8cef4bff11a5602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainDoor
+    second: {fileID: 2100000, guid: 4e2d2d96b78032542b943a96bcf336c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: db426bee250d7f64c9375683ff0dfa7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: d7a51eaa99e3cd644bb960e7c854b439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 663d8f4e5e222ce4e98a767f8a6a3acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 92f5b83fbd2e366469c472bb6f030569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillersss
+    second: {fileID: 2100000, guid: 45dbb89c18e5e334abbb4b5d92c38344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Squares
+    second: {fileID: 2100000, guid: 636d01cf5f21d754b96005aa696bc7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WINDOW.001
+    second: {fileID: 2100000, guid: ec2df17b3ca6fd0408cf0fc60fa848a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowOuter
+    second: {fileID: 2100000, guid: 8667f803138e324468c2fa5612285cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: e59615fc56f0570438761a615a8568d3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_FOOTWALK.001_AlbedoTransparency
+    second: {fileID: 2800000, guid: 8505eaa5f3e544a4186351907ec49434, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_FOOTWALK.001_MetallicSmoothness
+    second: {fileID: 2800000, guid: c311c8c161ff50a4da12945bde436ac0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_FOOTWALK.001_Normal
+    second: {fileID: 2800000, guid: 998fb1265bb5d2743978941f4835870f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_MainDoor_AlbedoTransparency
+    second: {fileID: 2800000, guid: 540db58abf356624fb83266505169c2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_MainDoor_MetallicSmoothness
+    second: {fileID: 2800000, guid: 1e866c586774a754a885ebf80676c61e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_MainDoor_Normal
+    second: {fileID: 2800000, guid: 045423725c1ef9647bb3f01dd5ef8497, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_Material.007_AlbedoTransparency
+    second: {fileID: 2800000, guid: 736c4b28d86b1264b83b952b46915b39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_Material.007_MetallicSmoothness
+    second: {fileID: 2800000, guid: de0b2ee2010617847a4f2db82a1258bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_Material.007_Normal
+    second: {fileID: 2800000, guid: b7ff3d930aa9fc94ab9f50f4b387c032, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_Material.008_AlbedoTransparency
+    second: {fileID: 2800000, guid: 09df80a4245f22e4ea0b6e0045636fc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_Material.008_MetallicSmoothness
+    second: {fileID: 2800000, guid: 110de875af2ec564bbef24b8ea023838, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_Material.008_Normal
+    second: {fileID: 2800000, guid: de714e873e2143f4b887c4b1831d9e5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_WINDOW.001_AlbedoTransparency
+    second: {fileID: 2800000, guid: 4edbc4b04b0cb17409f048e4c4858416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_WINDOW.001_MetallicSmoothness
+    second: {fileID: 2800000, guid: bf9fb95f5f87e9f47915096ce87d4eb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanHouse1_WINDOW.001_Normal
+    second: {fileID: 2800000, guid: a7cdaf3332f8eb54c9f1ffb24c66262f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_Pillersss_AlbedoTransparency
+    second: {fileID: 2800000, guid: fcde20fd408da8343b35db18b6361e1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_Pillersss_MetallicSmoothness
+    second: {fileID: 2800000, guid: cd8a22ab49eec4849a873f182b2b040c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_Pillersss_Normal
+    second: {fileID: 2800000, guid: 2515a4af106450e498b2a5b5b6a4c95e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_Squares_AlbedoTransparency
+    second: {fileID: 2800000, guid: fdd4136b331d7be42befc05e2e346b94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_Squares_MetallicSmoothness
+    second: {fileID: 2800000, guid: cb285eda63d4f62499139f745f21e259, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_Squares_Normal
+    second: {fileID: 2800000, guid: ac03036fb1a63f34c891c7de092713ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_WindowOuter_AlbedoTransparency
+    second: {fileID: 2800000, guid: 937dca2b9cc0bc748bd0c84059555f22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_WindowOuter_MetallicSmoothness
+    second: {fileID: 2800000, guid: 416aff5bd398e804499c07c8550243d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowLowPoly_WindowOuter_Normal
+    second: {fileID: 2800000, guid: f3ac4666a09e4c941946be814fa7d490, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: doorDesignLowPoly_Material.008_AlbedoTransparency
+    second: {fileID: 2800000, guid: 3220df03e402d4f498b7997e5b0134e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: doorDesignLowPoly_Material.008_MetallicSmoothness
+    second: {fileID: 2800000, guid: 03460556cb3cf3e4caae0a3e4ad1ffad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: doorDesignLowPoly_Material.008_Normal
+    second: {fileID: 2800000, guid: 0a43bdefbee4bb242acf01aeb5aae90b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grey_roof_tiles_02_diff_1k
+    second: {fileID: 2800000, guid: 28671192c951cfe4ba680d0053294ed3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grey_roof_tiles_02_nor_gl_1k
+    second: {fileID: 2800000, guid: e2b098b559d7bd14a916600a9dc2c8df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grey_roof_tiles_02_rough_1k
+    second: {fileID: 2800000, guid: 50015f81aa5f9fd468273e6a4b8d2961, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

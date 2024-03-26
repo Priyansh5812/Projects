@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 528b89c6ef21f214f9703a3f7d73cd81
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: ad53e42a1ef560349b07b58af37ff2fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 89e0452b644d7b142b5de5cbd359281a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aipan1
+    second: {fileID: 2100000, guid: 9d851a28257ac7f4f930b64434cd3093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aipan2
+    second: {fileID: 2100000, guid: 5e49458f63e003d4aa292633d918df92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: archAbove
+    second: {fileID: 2100000, guid: c360526c099d92b45a391a88e84045ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: archCurve
+    second: {fileID: 2100000, guid: 0526372a6725b7a45811f429b0d91307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boxTop
+    second: {fileID: 2100000, guid: 54131ab75748c1c4f9cb658895654732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boxbelow
+    second: {fileID: 2100000, guid: 9afd88699419c404fbeba5d84e8d473e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boxtoptop
+    second: {fileID: 2100000, guid: 962f547c38e57bb4995eb4dfdc845b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dome
+    second: {fileID: 2100000, guid: 0b38395df8e7baf4c9b05082294707d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piller
+    second: {fileID: 2100000, guid: 979238f0878860a4d83d7b4a87b65679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rockBottom
+    second: {fileID: 2100000, guid: 49b7f64fa3affb94198bab17b3022965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rods
+    second: {fileID: 2100000, guid: 2f9acf59a49558947acdfdc2a9856b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room
+    second: {fileID: 2100000, guid: 5b66b8b01e93e2c4e87397fff2a1ecc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: b88604bd3ef3f374bb94c9e3ddaff745, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_AipanName_AlbedoTransparency
+    second: {fileID: 2800000, guid: 33239cfd38fc62f47a61bef0efdb7d02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_AipanName_MetallicSmoothness
+    second: {fileID: 2800000, guid: d50caf805d40ec44daa1adfb961b8b7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_AipanName_Normal
+    second: {fileID: 2800000, guid: 09fe3bc7604a648438c2ee3a248143c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_archAbove_AlbedoTransparency
+    second: {fileID: 2800000, guid: 331ef61eae9e95745910aab6251be1bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_archAbove_MetallicSmoothness
+    second: {fileID: 2800000, guid: c60ba7c80a4a3584e96263bb51cc8bc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_archAbove_Normal
+    second: {fileID: 2800000, guid: f17e28b7315ff0f4fb0017e2f318a92b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_archCurve_AlbedoTransparency
+    second: {fileID: 2800000, guid: 44cf5087a0a864e45aa7c8f71420f8f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_archCurve_MetallicSmoothness
+    second: {fileID: 2800000, guid: dfd175cd65cd8c740a1f4f38f6391fe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_archCurve_Normal
+    second: {fileID: 2800000, guid: a0bf42cad7d64834fa3bae9e058ac30b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxTop_AlbedoTransparency
+    second: {fileID: 2800000, guid: 2aabad52df8595d4e83acd5ae5ecf484, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxTop_MetallicSmoothness
+    second: {fileID: 2800000, guid: a012d3637ee60ea4ba552ceaa80a83b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxTop_Normal
+    second: {fileID: 2800000, guid: f6cfc3878ba53d046ab01c4e58cd4825, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxbelow_AlbedoTransparency
+    second: {fileID: 2800000, guid: 91357dae54bfe634c891b45d3935d967, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxbelow_MetallicSmoothness
+    second: {fileID: 2800000, guid: c9fed23d42cb4324f97adcc410d498d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxbelow_Normal
+    second: {fileID: 2800000, guid: 01b672b7c1c590d4c89b608f3cc3b4d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxtoptop_AlbedoTransparency
+    second: {fileID: 2800000, guid: aa5603f2f9fc1514e845c04c045adb66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxtoptop_MetallicSmoothness
+    second: {fileID: 2800000, guid: 214adbb3fc4fbe748b3863b5949625d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_boxtoptop_Normal
+    second: {fileID: 2800000, guid: ec02934af63087e45a931111885077e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_dome_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7f0136dd4066d89439f46ad7c4fb6c93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_dome_MetallicSmoothness
+    second: {fileID: 2800000, guid: 14173494ea2b5ec439e0676654ed3ad5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_dome_Normal
+    second: {fileID: 2800000, guid: 650ad116dca54104ba756cd587f4c4fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_piller_AlbedoTransparency
+    second: {fileID: 2800000, guid: 4de20f22d0db378448f7fced1f37eff1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_piller_MetallicSmoothness
+    second: {fileID: 2800000, guid: 3877a08080f841140ae1a1577cb98df7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_piller_Normal
+    second: {fileID: 2800000, guid: 89ade2e5d04a5f84eb0b86d70925751c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_rockBottom_AlbedoTransparency
+    second: {fileID: 2800000, guid: dc15f523ce8a229469165ab342e2b281, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_rockBottom_MetallicSmoothness
+    second: {fileID: 2800000, guid: 272f50c8a64a32a43bd6e12e3a9ee1b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AipanPortal_rockBottom_Normal
+    second: {fileID: 2800000, guid: a2d0f76d498d17b4eb60f0022eb40fd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aipan art 2 ppt
+    second: {fileID: 2800000, guid: 9b0b49ca4adfd7a428cb217f9b174541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aipan art 3 ppt
+    second: {fileID: 2800000, guid: c5e719ba134472e4d85f2cea12e4b7f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dark_wood_diff_1k
+    second: {fileID: 2800000, guid: 0d8c97c10d74cea4497cfd081edd8b57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dark_wood_nor_gl_1k
+    second: {fileID: 2800000, guid: 1049ead32d60c1d43bfcbb7c128bab68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dark_wood_rough_1k
+    second: {fileID: 2800000, guid: b63915379dc0b4a45a9dd377900315d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: portal_aipan
+    second: {fileID: 2800000, guid: fa982247caf6f3b4396979b7edd069a8, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
